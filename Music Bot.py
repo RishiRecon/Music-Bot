@@ -7,7 +7,7 @@ from discord_webhook import DiscordWebhook
 from discord.ext import commands
 import time
 uploadedfilesWEBHOOK="https://discord.com/api/webhooks/1150489700700786778/c52FCS62-gA15iFzoJJn7dD4FJENaU1oqFveDaMBOrOusDmSrIyhLxfNxaZo2ZCv86h_"
-controlBotToken="MTE1MDQ4OTQxMTE1MTIwODUzOQ.GnYlJb.XQd5Dp1AdugEolZJ-66i3XDLX3bwpalqKso4tk"
+controlBotToken="MTE1MDQ4OTQxMTE1MTIwODUzOQ.GQ1SoX.05laEwKhU3M2FD2F2DwLQ6frOBETSzXzwOuSzg"
 
 
 
